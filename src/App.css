@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0 0 0 0;
+    font-family: sans-serif;
+    background-color: red;
+}
+
+.nabvar{
+    margin-bottom: 20px;
+}
+
+.clickable{
+    cursor:pointer
+} 
